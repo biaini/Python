@@ -7,7 +7,7 @@ def randomf(x,y):
             result = 1
             for _ in range(abs(y)):
                 result /= x
-            return f"Raising x to the y  power is: {round(result, 6)}"
+            return f"Raising x to the y power is: {round(result, 6)}"
     except ValueError:
         return "You should add the correct number"
 
