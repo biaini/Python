@@ -1,3 +1,5 @@
+#Sudent: Avakian Andranik
+
 def int_func():
     for word in input("Enter lower case latin letters words:\n ").split():
         letters = 0

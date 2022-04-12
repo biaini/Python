@@ -1,3 +1,5 @@
+#Student: Avakian Andranik
+
 def summary():
     n = 0
     while True:
