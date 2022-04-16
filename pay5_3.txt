@@ -1,0 +1,10 @@
+Smith  10000.0
+Johnson  20000.0
+Clinton  15000.0
+Barry  16000.0
+Mattias  920000.0
+Nordson  69000.0
+Clain  85000.0
+Perry  78000.0
+Jackson  45000.0
+Todd  56000.0
